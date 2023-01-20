@@ -1,6 +1,6 @@
 ### Oi! meu nome é Renan Breves
 
-- 🌱 Hoje estou cursando o terceiro ano do técnico em desenvolvimento de sistemas na escola Etec Machado de Assis e fazendo cursos de HTML, CSS e UI Design pela internet
+- 🌱 Sou técnico em desenvolvimento de sistemas formado na escola Etec Machado de Assis e fazendo cursos de HTML, CSS e UI Design pela internet
 - 📫 Contate-me no e-mail: brevesrenan25@gmail.com
 
 <div align="center">
@@ -10,6 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
